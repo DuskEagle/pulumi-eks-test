@@ -1,0 +1,3 @@
+name: eks-test
+runtime: go
+description: For MSO clusters running on EKS
